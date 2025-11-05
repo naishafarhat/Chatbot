@@ -1,6 +1,7 @@
-This is a full-stack AI chatbot project that uses a Python/Flask backend
+CHATBOT
+This is a full-stack AI chatbot project that uses a Python/Flask backend.
 <br>
-It has a clean web interface built using HTML, CSS, and JavaScript. To run this project locally, you will need Python, Flask, and the google-generativeai library 
+It has a clean web interface built using HTML, CSS, and JavaScript. To run this project locally, you will need Python, Flask, and the google-generativeai library.
 <br>
 you can use the command (pip install Flask google-generativeai) to install the package.
 <br>
